@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dabongos
-- 👀 I’m interested in improving my coding skills and seeing what I can learn/
+- 👀 I’m interested in improving my coding skills and seeing what I can learn!
 - 🌱 I’m currently learning JavaScript!
-- 💞️ I’m looking to collaborate on ... TBD
+- 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me, for now: right here!
 
 <!---
